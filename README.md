@@ -1,1 +1,1 @@
-# OptimusPaint
+# Jemmy Painting
